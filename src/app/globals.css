@@ -24,15 +24,15 @@ a {
 .dark {
     --bg: #262c31;
     --textColor: #ddd;
-    --softbg: #f0f0f0;
-    --softTextColor: #626262
+    --softBg: #f0f0f0;
+    --softTextColor: #626262;
 }
 
 .light {
-    --bg: #white;
-    --textColor: #black;
-    --softbg: #f0f0f0;
-    --softTextColor: #626262
+    --bg: white;
+    --textColor: black;
+    --softBg: #f0f0f0;
+    --softTextColor: #626262;
 }
 
 .container {
