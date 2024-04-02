@@ -7,7 +7,7 @@ import Card from '../Card/Card'
 const CardList = () => {
   return (
     <div className={styles.container}>
-        <h1 className={styles.title}>Recent Post</h1>
+        <h1 className={styles.title}>Recent Posts</h1>
         <div className={styles.posts}>
           <Card />
           <Card />
